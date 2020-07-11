@@ -1,16 +1,16 @@
-### Hi there 👋
+👋
 
-<!--
-**klipitkas/klipitkas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineer with a passion for solving problems. 
 
-Here are some ideas to get you started:
+Work experience with both frontend and backend frameworks and design patterns. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skilled in (listing technologies and languages in no specific order): 
+- NodeJS (ES5/ES6), 
+- Go
+- PHP
+- Git
+- RDBMS, NoSQL DBs
+- Microservices 
+- REST
+- HA Architectures
+- Security
