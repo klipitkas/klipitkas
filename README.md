@@ -1,14 +1,11 @@
-[![klipitkas's github stats](https://github-readme-stats.vercel.app/api?username=klipitkas&show_icons=true&theme=gruvbox)](https://github.com/klipitkas/klipitkas)
+[![klipitkas's github stats](https://github-readme-stats.vercel.app/api?username=klipitkas&show_icons=true)](https://github.com/klipitkas/klipitkas)
 
-:construction_worker: Systems Engineer with broad experience in DevOps, System Administration and Full Stack Web Development.
+Listing technologies and frameworks that I have experience with in no particular order:
 
-:hammer: Work experience with:
-- Go / PHP / JS (ES5, ES6)
-- RDBMS (Postgres, MySQL)
-- NoSQL DBs (MongoDB)
-- Redis
-- Git
-- Microservices
-- Kubernetes
-- REST
-- Security
+- Backend: Go (Fiber) / PHP (Laravel) / JavaScript (NodeJS)
+- Frontend: React / Vue / HTML5 / CSS3 / TailwindCSS
+- RDBMS: Postgres / MySQL
+- NoSQL: MongoDB
+- K/V: Redis
+- Version control: Git
+- Other: Microservices, Kubernetes, Vault, Nomad, REST APIs, Security
