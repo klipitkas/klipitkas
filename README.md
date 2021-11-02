@@ -2,7 +2,7 @@
 
 Listing technologies and frameworks that I have experience with in no particular order:
 
-- Backend: Go (Fiber) / PHP (Laravel) / JavaScript (NodeJS)
+- Backend: Go (Fiber) / PHP (Laravel) / JavaScript (NodeJS/Express)
 - Frontend: React / Vue / HTML5 / CSS3 / TailwindCSS
 - RDBMS: Postgres / MySQL
 - NoSQL: MongoDB
