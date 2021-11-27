@@ -1,4 +1,4 @@
-[![klipitkas's github stats](https://github-readme-stats.vercel.app/api?username=klipitkas&show_icons=true)](https://github.com/klipitkas/klipitkas)
+[![klipitkas's github stats](https://github-readme-stats.vercel.app/api?username=klipitkas&count_private=true&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true)](https://github.com/klipitkas/klipitkas)
 
 Listing technologies and frameworks that I have experience with in no particular order:
 
